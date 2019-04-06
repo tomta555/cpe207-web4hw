@@ -1,0 +1,24 @@
+{
+  "name": "cpe207-web4",
+  "version": "1.0.0",
+  "description": "NodeJs Homework",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomta555/cpe207-web4hw.git"
+  },
+  "author": "Thanawong Saneewong Na Ayutthaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomta555/cpe207-web4hw/issues"
+  },
+  "homepage": "https://github.com/tomta555/cpe207-web4hw#readme",
+  "dependencies": {
+    "font-awesome-icons": "^1.5.0",
+    "nodemon": "^1.18.10"
+  }
+}
